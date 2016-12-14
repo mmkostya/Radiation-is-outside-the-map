@@ -8,7 +8,7 @@ Installation
 
 2) Open config.cpp , search "class CfgExileCustomCode" and add this line inside class:
 
-ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
+	ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
 
 3) If you are not using a standard map(world), in "class CfgExileEnvironment" add this line(instead of "Chernarus" replace your map(world)):
 
@@ -89,11 +89,11 @@ ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_threa
 
 2) В файле config.cpp , найти "class CfgExileCustomCode" и добавить туда эту строчку:
 
-ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
+	ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
 
 3) Если вы используете не стандартную карту, в "class CfgExileEnvironment" добавить эти строки(вместо "Chernarus" подставьте название своей карты):
 
-class Chernarus: Altis { 
+	class Chernarus: Altis { 
 		class FireFlies
 		{
 			// 1 = enabled, 0 = disabled
