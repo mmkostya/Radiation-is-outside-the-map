@@ -12,7 +12,7 @@ ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_threa
 
 3) If you are not using a standard map(world), in "class CfgExileEnvironment" add this line(instead of "Chernarus" replace your map(world)):
 
-class Chernarus: Altis { 
+	class Chernarus: Altis { 
 		class FireFlies
 		{
 			// 1 = enabled, 0 = disabled
