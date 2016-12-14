@@ -1,4 +1,4 @@
-# Radiation-is-outside-the-map
+# Radiation-is-outside-the-world
 
 # Video
 
