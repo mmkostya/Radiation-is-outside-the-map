@@ -8,8 +8,7 @@ https://www.youtube.com/watch?v=g5VgsW2fj6s&feature=youtu.be
 
 Installation
 
-1) Open mission copy ExileClient_system_radiation_thread_update.sqf inside.
-
+1) Open mission copy ExileClient_system_radiation_thread_update.sqf inside(In folder "Without gas mask" script that causes damage even if wearing a gas mask).
 2) Open config.cpp , search "class CfgExileCustomCode" and add this line inside class:
 
 	ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
@@ -89,7 +88,7 @@ Installation
 
 Установка
 
-1) Скопировать файл ExileClient_system_radiation_thread_update.sqf себе в миссию.
+1) Скопировать файл ExileClient_system_radiation_thread_update.sqf себе в миссию(В папке "Without gas mask" скрипт который наносит урон за картой даже если на тебе провогаз).
 
 2) В файле config.cpp , найти "class CfgExileCustomCode" и добавить туда эту строчку:
 
