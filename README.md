@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=g5VgsW2fj6s&feature=youtu.be
 Installation
 
 1) Open mission copy ExileClient_system_radiation_thread_update.sqf inside(In folder "Without gas mask" script that causes damage even if wearing a gas mask).
+
 2) Open config.cpp , search "class CfgExileCustomCode" and add this line inside class:
 
 	ExileClient_system_radiation_thread_update = "ExileClient_system_radiation_thread_update.sqf";
