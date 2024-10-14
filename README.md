@@ -1,8 +1,8 @@
 # Radiation-is-outside-the-world
 
-# Video
+[![Watch on youtube](https://github.com/mmkostya/Radiation-is-outside-the-world/blob/Preview/Preview/VideoPreview.gif)](https://www.youtube.com/watch?v=g5VgsW2fj6s&feature=youtu.be)
 
-https://www.youtube.com/watch?v=g5VgsW2fj6s&feature=youtu.be
+[Watch on youtube](https://www.youtube.com/watch?v=g5VgsW2fj6s&feature=youtu.be)
 
 # English
 
